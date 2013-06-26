@@ -1,0 +1,6 @@
+D:\Project\EloquaCC\AppharborLogTesting\AppharborLogTesting\bin\AppharborLogTesting.dll
+D:\Project\EloquaCC\AppharborLogTesting\AppharborLogTesting\bin\AppharborLogTesting.pdb
+D:\Project\EloquaCC\AppharborLogTesting\AppharborLogTesting\bin\log4net.dll
+D:\Project\EloquaCC\AppharborLogTesting\AppharborLogTesting\obj\Debug\AppharborLogTesting.csprojResolveAssemblyReference.cache
+D:\Project\EloquaCC\AppharborLogTesting\AppharborLogTesting\obj\Debug\AppharborLogTesting.dll
+D:\Project\EloquaCC\AppharborLogTesting\AppharborLogTesting\obj\Debug\AppharborLogTesting.pdb
